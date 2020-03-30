@@ -1,0 +1,7 @@
+a= float(input())
+b= float(input())
+c= float(input())
+d= float(input())
+x=(a*b)-(c*d)
+int(x)
+print("DIFERENCA = %d"%x)
