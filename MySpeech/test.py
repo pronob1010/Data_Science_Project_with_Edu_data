@@ -58,3 +58,5 @@ print("------------------------")
 import math
 print(math.factorial(200))
 print("------------------------")
+
+print(1/2)

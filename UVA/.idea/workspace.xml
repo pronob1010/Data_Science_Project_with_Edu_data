@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de870fd-eba8-4b3b-bb2c-2d66e40f14bc" name="Default Changelist" comment="" />
+    <list default="true" id="2de870fd-eba8-4b3b-bb2c-2d66e40f14bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ACMProfile/singlyLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpeech/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpeech/ARRAY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpeech/RunnigMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpeech/codejam1(2020).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpeech/codejam2(2020).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpeech/cs50-taskAircraft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpeech/marge sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/100 - The 3n + 1 problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10008 - What's Cryptanalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10018 - Reverse and Add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10019 - Funny Encryption Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10023 - Square root.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10035 - Primary Arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10038 - Jolly Jumpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10055 - Hashmat the Brave Warrior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10056 - What is the Probability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10057 - A mid-summer night_s dream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10062 - Tell me the frequencies!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10071 - Back to High School Physics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10162 - Last Digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10193 - All You Need Is Love.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10195 - The Knights Of The Round Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/102 - Ecological Bin Packing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10209 - Is This Integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10221 - Satellites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10222 - Decode the Mad man.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10235 - Simply Emirp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10252 - Common Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10300 - Ecological Premium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10340 - All in All.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10370 - Above Average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10415 - Eb Alto Saxophone Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10420 - List of Conquests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10469 - To Carry or not to Carry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10499 - The Land of Justice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10523 - Very Easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10550 - Combination Lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10591 - Happy Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10673 - Play with Floor and Ceil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/10696 - f91.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/12149 - Feynman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/324 - Factorial Frequencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/374 - Big Mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/408 - Uniform Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/424 - Integer Inquiry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/476 - Points in Figures Rectangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/477 - Points in Figures Rectangles and Circles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/482 - Permutation Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/494 - Kindergarten Counting Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/579 - Clock Hands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/591 - Box of Bricks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/623 - 500!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/900 - Brick Wall Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/913 - Joana and the Odd Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay/venv/fbchatbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay/venv/joy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prime/venv/decore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problem solve/venv/10305.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problem solve/venv/a.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problem solve/venv/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problem solve/venv/voice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/maximumSumContiguousSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/maximumSumContiguousSubarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/10591 - Happy Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/10591 - Happy Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem solve/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem solve/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +84,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/10523 - Very Easy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -31,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/10591 - Happy Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="374">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -66,6 +137,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/venv" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -115,18 +189,19 @@
         <option value="$PROJECT_DIR$/venv/10499 - The Land of Justice.py" />
         <option value="$PROJECT_DIR$/venv/10523 - Very Easy.py" />
         <option value="$PROJECT_DIR$/venv/10550 - Combination Lock.py" />
-        <option value="$PROJECT_DIR$/venv/10591 - Happy Number.py" />
         <option value="$PROJECT_DIR$/venv/10673 - Play with Floor and Ceil.py" />
         <option value="$PROJECT_DIR$/venv/10696 - f91.py" />
+        <option value="$PROJECT_DIR$/venv/10591 - Happy Number.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="325" />
-    <option name="y" value="-10" />
-    <option name="width" value="1440" />
-    <option name="height" value="785" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -146,25 +221,9 @@
             </path>
             <path>
               <item name="UVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="UVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (UVA) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="UVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (UVA) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="UVA" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (UVA) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,6 +233,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -326,10 +386,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-8" y="-8" width="976" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49855492" visible="true" weight="0.105437666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49855492" visible="true" weight="0.39484978" />
       <window_info id="Structure" order="1" sideWeight="0.5014451" side_tool="true" weight="0.19628647" />
       <window_info id="Favorites" order="2" sideWeight="0.5014451" side_tool="true" weight="0.19628647" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,6 +403,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.42919075" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="SVN Repositories" order="11" visible="true" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -654,17 +715,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/10523 - Very Easy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/10550 - Combination Lock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/10591 - Happy Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -682,10 +743,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/10523 - Very Easy.py">
+    <entry file="file://$PROJECT_DIR$/venv/10591 - Happy Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="374">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>

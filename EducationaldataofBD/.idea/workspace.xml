@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca01001c-f20d-4f54-94af-6b70feb7dbcc" name="Default Changelist" comment="" />
+    <list default="true" id="ca01001c-f20d-4f54-94af-6b70feb7dbcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/maximumSumContiguousSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/maximumSumContiguousSubarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySpeech/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UVA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UVA/venv/10591 - Happy Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/../UVA/venv/10591 - Happy Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem solve/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem solve/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            <state relative-caret-position="84">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -32,6 +41,9 @@
       <replace>INSTITUTE</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -41,17 +53,19 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="130" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="276" />
+    <option name="y" value="80" />
     <option name="width" value="1440" />
-    <option name="height" value="783" />
+    <option name="height" value="785" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,11 +97,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../problem solve" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -240,9 +254,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="221" y="64" width="1152" height="628" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14456233" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14414415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -251,7 +265,7 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32947975" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.32838982" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947146" weight="0.62995595" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32803467" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32947975" />
@@ -262,16 +276,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/demo.py" />
     <entry file="file://$PROJECT_DIR$/venv/data-resource_2018_02_05_Institutional Information.csv" />
     <entry file="file://$USER_HOME$/Desktop/SpringboardCapstone_YelpAnalysis-master/SpringboardCapstone_YelpAnalysis-master/ConvertYelp.py" />
     <entry file="file://$PROJECT_DIR$/venv/datafake.csv" />
@@ -302,8 +307,8 @@
     <entry file="file://$PROJECT_DIR$/venv/demo.py" />
     <entry file="file://$PROJECT_DIR$/venv/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        <state relative-caret-position="84">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
