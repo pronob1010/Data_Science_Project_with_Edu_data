@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca01001c-f20d-4f54-94af-6b70feb7dbcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySpeech/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySpeech/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySpeech/maximumSumContiguousSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/maximumSumContiguousSubarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySpeech/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MySpeech/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UVA/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UVA/venv/10591 - Happy Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/../UVA/venv/10591 - Happy Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../problem solve/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem solve/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="150">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -54,7 +47,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
+    <option name="x" value="275" />
     <option name="y" value="80" />
     <option name="width" value="1440" />
     <option name="height" value="785" />
@@ -242,6 +235,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572882067102</updated>
     </task>
+    <task id="LOCAL-00001" summary="v.0.3">
+      <created>1601213687328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601213687328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -254,7 +255,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="64" width="1152" height="628" extended-state="0" />
+    <frame x="220" y="64" width="1152" height="628" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14414415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -274,6 +276,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Run" order="3" sideWeight="0.5026525" weight="0.37875536" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.0.3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Desktop/demo.py" />
@@ -307,8 +313,8 @@
     <entry file="file://$PROJECT_DIR$/venv/demo.py" />
     <entry file="file://$PROJECT_DIR$/venv/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
